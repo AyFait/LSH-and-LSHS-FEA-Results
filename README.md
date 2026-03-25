@@ -2,7 +2,7 @@
 
 These are the simulation results (using ANSYS) based on my final year research project.
 
-## Initial results on the stock model (no optimization) using SOLIDWORKS Simulation
+## Initial results on the stock model (not optimized) using SOLIDWORKS Simulation
 
 1. ![*Stock Model*](SWimgs/Assem1sim-Static-Quality.jpg)
    *Stock Model*
