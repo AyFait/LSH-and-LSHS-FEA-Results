@@ -14,7 +14,7 @@
 3. ![*Displacement analysis of the unoptimized assembly.*](SWimgs/Assem1sim-Static-Displacement.jpg)
    *Displacement analysis of the unoptimized assembly.*
 
-## These are the simulation results using ANSYS:
+## Simulation results using ANSYS:
 
 1. ![*(a) Equivalent elastic strain and (b) Maximum principal elastic strain analysis result.*](ANSYSresults/(a)Equivalent-elastic-strain-and-(b)Maximum-principal-elastic-strain-analysis-result.png)
    *Equivalent elastic strain and (b) Maximum principal elastic strain analysis result.*
