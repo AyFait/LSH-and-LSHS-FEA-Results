@@ -16,7 +16,7 @@
 
 ## These are the simulation results using ANSYS:
 
-1. ![*(a) Equivalent elastic strain and (b) Maximum principal elastic strain analysis result.*](ANSYSresults/(a)-Equivalent-elastic-strain-and-(b)-Maximum-principal-elastic-strain-analysis-result.png)
+1. ![*(a) Equivalent elastic strain and (b) Maximum principal elastic strain analysis result.*](ANSYSresults/(a)Equivalent-elastic-strain-and-(b)Maximum-principal-elastic-strain-analysis-result.png)
    *Equivalent elastic strain and (b) Maximum principal elastic strain analysis result.*
 
 2. ![*(a) Equivalent (von-Mises) and (b) Maximum principal stress analysis result.*](ANSYSresults/(a)Equivalent-(von-Mises)-and-(b)Maximum-principal-stress-analysis-result.png)
