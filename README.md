@@ -19,5 +19,5 @@
 1. ![*(a) Equivalent elastic strain and (b) Maximum principal elastic strain analysis result.*](ANSYSresults/(a)-Equivalent-elastic-strain-and-(b)-Maximum-principal-elastic-strain-analysis-result.png)
    *Equivalent elastic strain and (b) Maximum principal elastic strain analysis result.*
 
-2. ![*(a) Equivalent (von-Mises) and (b) Maximum principal stress analysis result.*]([ANSYSresults/(a) Equivalent (von-Mises) and (b) Maximum principal stress analysis result.png](https://github.com/AyFait/LSH-and-LSHS-FEA-Results/blob/3a018387e8d7b463c244b6225f7195ab03f03a8b/ANSYSresults/(a)%20Equivalent%20(von-Mises)%20and%20(b)%20Maximum%20principal%20stress%20analysis%20result.png))
+2. ![*(a) Equivalent (von-Mises) and (b) Maximum principal stress analysis result.*](ANSYSresults/(a)Equivalent-(von-Mises)-and-(b)Maximum-principal-stress-analysis-result.png)
    *Equivalent (von-Mises) and (b) Maximum principal stress analysis result.*
